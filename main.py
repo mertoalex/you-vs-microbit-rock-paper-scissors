@@ -39,11 +39,11 @@ Xcon = images.create_image("""
 	1 0 0 0 1
 """)
 wincon = images.create_image("""
-	0 0 0 0 0
 	0 1 1 1 0
-	0 0 1 0 0
-	0 1 1 1 0
-	0 0 0 0 0
+	0 1 1 1 1
+	0 1 1 1 1
+	0 1 0 0 0
+	0 1 0 0 0
 """)
 lose = images.create_image("""
 	0 1 1 1 0

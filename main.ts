@@ -39,11 +39,11 @@ let Xcon = images.createImage(`
 	1 0 0 0 1
 `)
 let wincon = images.createImage(`
-	0 0 0 0 0
 	0 1 1 1 0
-	0 0 1 0 0
-	0 1 1 1 0
-	0 0 0 0 0
+	0 1 1 1 1
+	0 1 1 1 1
+	0 1 0 0 0
+	0 1 0 0 0
 `)
 let lose = images.createImage(`
 	0 1 1 1 0
